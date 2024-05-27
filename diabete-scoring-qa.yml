@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+diabete-scoring:
+  message: "Welcome to healthcare Diabete scoring related local APIs "
+  contactDetails:
+  name: "Cherryl Pankaj - QA Lead"
+    email: "cherryl@healthcare.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1343
