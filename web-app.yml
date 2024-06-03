@@ -1,6 +1,9 @@
 build:
   version: "3.0"
 
+server:
+  port:8080
+
 web-app:
   message: "Welcome to healthcare web app related local APIs "
   contactDetails:
