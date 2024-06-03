@@ -1,6 +1,9 @@
 build:
   version: "3.0"
 
+server:
+  port: 8081
+
 patient:
   message: "Welcome to Healthcare patient related local APIs "
   contactDetails:
